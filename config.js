@@ -5,7 +5,7 @@ const CONFIG = {
     Lạc vào tim to' lẻ loi
     Đằng sau chữ yêu đây là thương`,
     btnIntro: 'hihi',
-    title: 'NGAY PHU LU ZIETLAM 😙',
+    title: 'NGAY PHU LU VIET NAM😙',
     desc: 'VI DICH NEN BON TO CHUA TO CHUC DC CHAP NHAN K NE ',
     btnYes: 'Chap nhan <33',
     btnNo: 'Không never :3',
