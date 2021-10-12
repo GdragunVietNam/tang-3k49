@@ -15,5 +15,5 @@ const CONFIG = {
     mess: 'biet roi nek 😘😘',
     messDesc: 'hom sau di hoc e.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.instagram.com/c3k49geographie/' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://www.facebook.com/bao.tran.376695' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
